@@ -13,4 +13,4 @@ I'm really looking forward to learning new things
 
 ![Visitor Count](https://profile-counter.glitch.me/{aaaleeenaaa}/count.svg)
 
-![Gif](https://media2.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47bukss6h6w1sasl7di4gobg1rm3xhb0lq4k48p7zh&rid=giphy.gif&ct=g)
+![Gif "Thank goodness I took that coding course" with typing cat](https://media2.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47bukss6h6w1sasl7di4gobg1rm3xhb0lq4k48p7zh&rid=giphy.gif&ct=g)
