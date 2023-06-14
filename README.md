@@ -1,15 +1,15 @@
 # Welcome to my profile!
 
-My name is **Alena** and I'm currently completing the web development bootcamp at neuefische.
+My name is **Alena** and I recently completed the web development bootcamp at neuefische.
 
 :smile: :clap: :100:
-
-I'm really looking forward to learning new things 
 
 - HTML
 - CSS
 - JavaScript
-- and much more
+- React
+- Next.js 
+...
 
 ![Visitor Count](https://profile-counter.glitch.me/{aaaleeenaaa}/count.svg)
 
